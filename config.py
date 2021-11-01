@@ -1,5 +1,3 @@
-Python 3.10.0 (tags/v3.10.0:b494f59, Oct  4 2021, 19:00:18) [MSC v.1929 64 bit (AMD64)] on win32
-Type "help", "copyright", "credits" or "license()" for more information.
 """
 pokimanevideo, Telegram Video Chat Bot
 Copyright (c) 2021  somyajeet1 <https://github.com/somyajee1>
@@ -29,9 +27,9 @@ API_ID = int(getenv("API_ID", ""))
 API_HASH = getenv("API_HASH", "")
 BOT_TOKEN = getenv("BOT_TOKEN", "")
 SESSION_STRING = getenv("SESSION_STRING", "")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "AsmSupport")
-UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "AsmSafone")
-ASSISTANT_NAME = getenv("ASSISTANT_NAME", "MyVideoPlayer")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "teamDlt")
+UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "teamDlt")
+ASSISTANT_NAME = getenv("ASSISTANT_NAME", "Somyajeet_Mishra")
 SUDO_USERS = list(map(int, getenv("SUDO_USERS").split()))
 REPLY_MESSAGE = getenv("REPLY_MESSAGE", "")
 if not REPLY_MESSAGE:
