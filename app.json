@@ -1,6 +1,6 @@
 {
     "name": "Telegram Video Player Bot",
-    "description": "An Telegram Bot By @AsmSafone To Stream Videos in Voice Chat",
+    "description": "An Telegram Bot By @teamDlt To Stream Videos in Voice Chat",
     "repository": "https://github.com/somyajeet1/pokimanevideo",
     "logo": "https://te.legra.ph/file/f5cf0dad3f2dd01ee7db5.jpg",
     "stack": "container",
@@ -52,7 +52,7 @@
       },
       "REPLY_MESSAGE": {
         "description": "A reply message to those who message the USER account in PM. Make it blank if you do not need this feature.",
-        "value": "𝗛𝗲𝗹𝗹𝗼 𝗦𝗶𝗿, 𝗜'𝗺 𝗮 𝗯𝗼𝘁 𝘁𝗼 𝘀𝘁𝗿𝗲𝗮𝗺 𝘃𝗶𝗱𝗲𝗼𝘀 𝗼𝗻 𝘁𝗲𝗹𝗲𝗴𝗿𝗮𝗺 𝘃𝗼𝗶𝗰𝗲 𝗰𝗵𝗮𝘁, 𝗻𝗼𝘁 𝗵𝗮𝘃𝗶𝗻𝗴 𝘁𝗶𝗺𝗲 𝘁𝗼 𝗰𝗵𝗮𝘁 𝘄𝗶𝘁𝗵 𝘆𝗼𝘂 𝗗𝗼𝗻'𝘁 𝗦𝗽𝗮𝗺 𝗛𝗲𝗮𝗿 😕 !"
+        "value": "Hello Sir, I'm a bot to stream videos on telegram voice chat, not having time to chat with you 😂!",
         "required": false
       }
     },
